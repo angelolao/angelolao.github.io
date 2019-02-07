@@ -98,3 +98,19 @@
 .c-do-content-div {
   margin-bottom: 50px;
 }
+
+.c-do-items-div {
+  margin-bottom: 30px;
+}
+
+.c-do-item-div {
+  width: 20rem;
+}
+
+.c-do-item-content-div {
+  text-align: center;
+}
+
+.c-do-item-icon {
+  margin-bottom: 10px;
+}
